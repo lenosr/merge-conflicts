@@ -38,13 +38,13 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/"
+  resume_github_url:            "https://lenosr.github.io/markdown-portfolio/"
+#   resume_twitter_url:           "http://twitter.com/"
 #   resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/leno-r-25a7861a0/"
   # resume_instagram_url:         "insert your Instagram URL here"
-#   resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://www.researchgate.net/profile/Leno_Rocha"
 resume_print_social_links:      true
 
 # Design settings
