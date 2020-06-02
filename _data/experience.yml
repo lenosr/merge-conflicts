@@ -1,18 +1,18 @@
 # Jobs
 # Surftocat
-- company: Self Employed
-  position: Surftocat
-  duration: Life
-  summary: I only live to get radical.
+- company: National Treasury Secretariat
+  position: Researcher
+  duration: God knows...
+  summary: I love to use my brain.
 
 # Job Title
-- company: Conway Meats
-  position: Web Developer
+- company: Institute of Aeronautics and Space
+  position: Researcher
   duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
+  summary: Developed a software and pioneered a free space setup in Brazil.
 
 # Intern
-- company: GitHub
-  position: Intern - Web Developer - Designer
-  duration:  June, 2017  &mdash; August, 2017
-  summary: Redesigned the services.github.com website without a calendar
+# - company: GitHub
+#   position: Intern - Web Developer - Designer
+#   duration:  June, 2017  &mdash; August, 2017
+#   summary: Redesigned the services.github.com website without a calendar
